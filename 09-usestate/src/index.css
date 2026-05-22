@@ -1,0 +1,32 @@
+*{
+   margin: 0%;
+   padding: 0%;
+   color: white;
+}
+
+body{
+  background-color: black;
+  height: 100%;
+  width: 100%;
+}
+
+h1{
+  margin: 50px;
+  height: 300px;
+  width: 300px;
+  background-color: rgb(42, 43, 43);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 70px;
+}
+
+
+button{
+  
+  font-size: large;
+  background-color: red;
+  margin: 50px;
+  padding: 20px;
+  border-radius: 50px; 
+}
