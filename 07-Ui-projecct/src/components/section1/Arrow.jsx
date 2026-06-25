@@ -1,12 +1,11 @@
 import React from 'react'
+import { ArrowUpRight } from 'lucide-react'
 
 const Arrow = () => {
   return (
-    <div>
-        <dev > {/* className='text-9xl' */}
-          arrow icon.
-       </dev>
-    </div>
+     <dev> 
+        <ArrowUpRight />
+      </dev>
   )
 }
 

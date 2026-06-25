@@ -15,8 +15,8 @@ const App = () => {
     }
 
    useEffect(function(){
-      getData()
-  } , [index])
+      getData  //()
+  } , [index]) 
 
  
 
